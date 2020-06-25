@@ -1,6 +1,6 @@
 MECHENG 706
 Autonomous Fire-Detecting Robot
-Authors: Michael Jessup, Sidhant Raje, Saachi Shahri, Jerry Zhang
+Authors: M. Jessup, S. Raje, S. Shahri, J. Zhang
 
 This project contains the Arduino (and header) files for our fire detecting, and obstacle avoiding mobile, autonmous robot.
 
